@@ -1,0 +1,10 @@
+{
+  "cards":[
+    {"id": 1, "front": "Hola", "back": "Hello"},
+    {"id": 2, "front": "Adios", "back": "Bye"},
+    {"id": 3, "front": "¿Qué tal?", "back": "How are you?"},
+    {"id": 4, "front": "Bien", "back": "I'm good"},
+    {"id": 5, "front": "Mal", "back": "I'm bad"},
+    {"id": 6, "front": "Te echo de menos", "back": "I miss you"}
+    ]
+}
